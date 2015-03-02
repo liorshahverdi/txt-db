@@ -1,0 +1,6 @@
+c:\users\lior\documents\visual studio 2013\Projects\IndividualAssignment\IndividualAssignment\bin\Debug\IndividualAssignment.exe.config
+c:\users\lior\documents\visual studio 2013\Projects\IndividualAssignment\IndividualAssignment\obj\Debug\IndividualAssignment.csprojResolveAssemblyReference.cache
+c:\users\lior\documents\visual studio 2013\Projects\IndividualAssignment\IndividualAssignment\bin\Debug\IndividualAssignment.exe
+c:\users\lior\documents\visual studio 2013\Projects\IndividualAssignment\IndividualAssignment\bin\Debug\IndividualAssignment.pdb
+c:\users\lior\documents\visual studio 2013\Projects\IndividualAssignment\IndividualAssignment\obj\Debug\IndividualAssignment.exe
+c:\users\lior\documents\visual studio 2013\Projects\IndividualAssignment\IndividualAssignment\obj\Debug\IndividualAssignment.pdb
